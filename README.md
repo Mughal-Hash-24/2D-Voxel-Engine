@@ -119,4 +119,4 @@ This is a lightweight but expandable voxel engine — a foundation for future sy
 
 **Created By:** Ibtasaam Amjad  
 **Language:** Python | Pygame  
-**Created:** August–September 2023
+**Created:** September 2023
